@@ -1,14 +1,14 @@
 # Site settings
 title: "Yanghui Home"
 description: > 
-  Write a description of your website here.
+  Coding for world.
 
-author: YangHui15
+author: yanghui 
 email: busydog15@gmail.com
 twitter_username: None
 github_username: yanghui15
 
-baseurl: "/paper-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://deadbeef.me" # the base hostname & protocol for your site
 
 google_analytics_id: UA-1111111111-1
